@@ -1,0 +1,4 @@
+#Sun Jul 12 23:50:39 CST 2020
+base.0=L\:\\2020\\BT580_Android_App_ZH\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
